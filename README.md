@@ -1,3 +1,3 @@
- mert
+mert
 my first 
-ı like playing football
+ı like playing football.
